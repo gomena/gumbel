@@ -1,0 +1,21 @@
+---
+layout: post
+title: "On Synchronicity, Statistics and Apophenia"
+categories: general
+author: Gonzalo Mena
+excerpt_separator: <!--more-->
+comments: true
+---
+
+<br />
+For many years I have felt amazed by the occurrence of coincidences, and I guess it is a ubiquitous feeling in human beings. This topic has been addressed by several people, my favorite explanation was given by C.G. Jung in a joint work with the Nobel-Prize-Winner-Founding-Father-of-Quantum-Mechanics W. Pauli. Briefly, coincidences correspond to [acausal phenomena](https://www.scribd.com/book/232956847/Synchronicity-An-Acausal-Connecting-Principle-From-Vol-8-of-the-Collected-Works-of-C-G-Jung) in which the connection is not driven by causality but by the so called ‘synchronicity’, which is understood as the meaningful co-ocurrence of events that could even be separated in time and space. In the very same way as one can think that events in the physical world are linked into a causality chain, synchronicity is the ‘glue’ that ties together events in the psychic realm.
+
+<br />
+Jung had a scientific spirit, and thus tried to gather evidence to support the hyphotesis that the concept of ‘syncrhonicity’ is not arbitrary but can be  actually observed. For example, he documented several cases of his patients that had precognitions of death in dreams, etc. and based on the results of J.B. Rhine, a parapsychologist that carried out an experiement with cards in which it was shown, using statistical methods, that humang beings are capable of extrasensory perception. However, the experiments by J.B. Rhine have often been criticized and have been scarcely accepted amongst the scientific community. As a result, the theory of Jung has no scientific basis and thus it becomes a matter of belief the agreement or disagreement with his stance.
+
+
+<br />
+Another explanation to coincidences comes from the great american statistician and former magician Persi Diaconis (actually, there are earlier explanations to coincidence by R.A. Fischer but I wont comment on that), who wrote an article in 1989 trying to develop a statistical framework to understand coincidences. His point is that actually coincidences are not magical, they occur because even if they are unlikely they have to happen sometime as a consequence of the law of large numbers. Also, people commonly underestimate the probability of occurrence of an event. For example, if there are 23 people in a room, there is a probability slightly greater than 50% than at least two of them have the same birthday. This may seem surprising, but it is a mathematical fact, known as the birthday problem. This astonishing combinatory principle is the statistical basis of the occurrence of coincidences, which gives an explanation for why we usually believe that the probability of a coincidence coming about  is less than it actually is.
+
+<br />
+According to Diaconis, we are like machines of creating coincidences, they arise in our minds when we detect clustered patterns of meaningful connected information in the ocean of of the all omnipresent cosmic chaos, which is characterized by its randomness and maximum entropy. This just described human trait is called apophenia. Diaconis represents the widespread vision of a disenchanted world in which everything is caused by chance (perhaps because he was a magician he is too used to the fact that at the end every magical trick is actually just a trick), and on the other extreme Jung shows a vision in which the cosmos made up by naked chaos, but one in which there is a surplus of meaning, and meaning (and thus synchronicity) is taken as a constitutive force. I have to see that I agree to this later view, although I also completely agree with Diaconis, it is a beautiful endeavor to use statistics to try to explain coincidences, and certainly one cannot deny an argument that has all the strength of the mathematical rigor. 
